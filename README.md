@@ -1,15 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently open to work
+- 🌱 I’m currently learning advanced topics on C#, Python and ReacJS.
+- 💬 Ask me about development withc C#, JavaScript, NodeJS, PHP in general, computer networks and protocols, routing and switching, 
 <!--
 **neocdex/neocdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently open to work
- 🌱 I’m currently learning advanced topics on C#, Python and ReacJS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
- 💬 Ask me about backend development in general, computer networks and protocols, routing and switching, 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
