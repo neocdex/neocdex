@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently open to work
-- 🌱 I’m currently learning advanced topics in C#, Python and ReactJS.
-- 💬 Ask me about development with C#, JavaScript, NodeJS, PHP. Also about computer networks and protocols, routing and switching, 
+- 🌱 I’m currently learning TypeScript, ReactJS and advanced topics in C#..
 <!--
 **neocdex/neocdex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
